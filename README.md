@@ -1,5 +1,7 @@
 # Temporal generalisation of PV power estimation at a single plant
 
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23990095.svg)](https://doi.org/10.5281/zenodo.23990095)
+
 Code for the article *Bir Fotovoltaik Santralde Makine Öğrenmesiyle Güç Kestirimi: Eğitim
 Geçmişinin Uzunluğu ve Zamansal Genelleme*.
 
