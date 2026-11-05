@@ -1,0 +1,9 @@
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+xgboost==3.4.1
+tensorflow==2.21.0
+matplotlib==3.10.0
+joblib==1.6.0
+pvlib==0.16.1
